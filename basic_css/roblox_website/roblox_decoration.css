@@ -1,0 +1,75 @@
+.main-h1-style {
+    text-align: center;
+    color: rgb(255, 0, 0);
+    font-size: 70px;
+    background-color: rgb(0, 0, 0);
+    padding: 30px; 
+    border-radius: 25px;
+}
+.generic-p-and-h1-style{
+    text-align: center;
+    color:aliceblue;
+    font-size:35px;
+    background-color: black;
+    padding: 5px;
+    border-radius: 25px;
+    border:5px;
+}
+
+.yellow-p-style {
+    color: rgb(228, 228, 73);
+    font-size: 25px;
+    background-color: rgb(170, 133, 255);
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px;
+}
+
+.yellow-h1-style {
+    color: rgb(217, 255, 0);
+    font-size: 50px;
+    background-color: rgb(128, 197, 253);
+    padding: 5px;
+    border-radius: 9px;
+    border: 4px;
+}
+
+.black-p-style {
+    color: black;
+    font-size: 25px;
+    background-color: rgb(255,255,255);
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px
+}
+
+.black-h1-style {
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+    background-color: rgb(255, 255, 255);
+    padding: 5px;
+    border-radius: 9px;
+    border: 4px;
+}
+
+.dark-violet-p-style {
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    background-color: rgb(90, 44, 151);
+    padding: 10px;
+    border-radius: 8px;
+    border: 2px
+}
+
+.black-h1-style {
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    background-color: rgb(121, 73, 160);
+    padding: 5px;
+    border-radius: 9px;
+    border: 4px;
+}
+
+body {
+    background-color: rgb(177, 83, 83);
+}
